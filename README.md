@@ -11,7 +11,6 @@
 	<li>Kinect Xbox 360 V1.0 </li>
 	<img src="images/Kinect.jpg" width="400"> 
 	<li>Control Xbox 360 </li>
-	<img src="images/control.jpg" width="400">
 </ul>>
 <h3> Comandos para ejecución </h3>
 <ol>
